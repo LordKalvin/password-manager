@@ -14,7 +14,7 @@ print("1. Login\n2. Sign Up\n3. Exit")
 answer = get_answer()
 
 if answer == "1":
-    pass
+    print("Login page not yet implemented.")
 elif answer == "2":
     pass
 else:
